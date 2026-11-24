@@ -235,10 +235,10 @@ This project demonstrates practical implementation of:
 
 ## 👨‍💻 Author
 
-KHUSHI KUMARI
-NANCY KUMARI
-PRIYANKA RAJ
-SHAMBHAVI
+KHUSHI KUMARI,
+NANCY KUMARI,
+PRIYANKA RAJ,
+SHAMBHAVI,
 YAMYA
 
 
