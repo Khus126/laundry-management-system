@@ -235,7 +235,12 @@ This project demonstrates practical implementation of:
 
 ## 👨‍💻 Author
 
-**Your Name**
+KHUSHI KUMARI
+NANCY KUMARI
+PRIYANKA RAJ
+SHAMBHAVI
+YAMYA
+
 
 Java | Object-Oriented Programming | Swing | Software Development
 
